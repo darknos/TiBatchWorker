@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Sergey Nosenko
+license: MIT
+copyright: Sergey Nosenko
+
+
+# these should not be edited
+name: TiBatchWorker
+moduleid: ti.batch.worker
+guid: a04137b2-6d2a-4455-8d54-62132b822c9d
+platform: iphone
+minsdk: 3.2.2.GA
